@@ -1,10 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
     <PropertyGroup>
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <RootNamespace>jotting_jwts</RootNamespace>
+        <RootNamespace>JottingJWTs</RootNamespace>
         <UserSecretsId>f3eb0db0-c077-457b-9bf0-1895460e39f7</UserSecretsId>
     </PropertyGroup>
 

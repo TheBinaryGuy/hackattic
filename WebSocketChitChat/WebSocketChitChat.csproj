@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net7.0</TargetFramework>
-        <RootNamespace>websocket_chit_chat</RootNamespace>
+        <RootNamespace>WebSocketChitChat</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <UserSecretsId>3d0b83d9-644c-493c-a501-4f91d4374d90</UserSecretsId>

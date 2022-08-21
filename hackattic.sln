@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32728.150
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jotting-jwts", "jotting-jwts\jotting-jwts.csproj", "{5C4905FB-DD6E-4FB6-9B8C-F0A02E527150}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JottingJWTs", "JottingJWTs\JottingJWTs.csproj", "{5C4905FB-DD6E-4FB6-9B8C-F0A02E527150}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{75E9BF2B-F2B4-483C-9A46-868E50C8B5F8}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "websocket-chit-chat", "websocket-chit-chat\websocket-chit-chat.csproj", "{6BD63026-E204-4D35-9BB8-A6090C4F162E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketChitChat", "WebSocketChitChat\WebSocketChitChat.csproj", "{6BD63026-E204-4D35-9BB8-A6090C4F162E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
