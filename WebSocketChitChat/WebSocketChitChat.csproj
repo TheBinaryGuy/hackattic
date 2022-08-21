@@ -6,7 +6,7 @@
         <RootNamespace>WebSocketChitChat</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <UserSecretsId>3d0b83d9-644c-493c-a501-4f91d4374d90</UserSecretsId>
+        <UserSecretsId>f3eb0db0-c077-457b-9bf0-1895460e39f7</UserSecretsId>
     </PropertyGroup>
 
     <ItemGroup>
