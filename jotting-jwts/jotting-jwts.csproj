@@ -5,6 +5,7 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <RootNamespace>jotting_jwts</RootNamespace>
+        <UserSecretsId>f3eb0db0-c077-457b-9bf0-1895460e39f7</UserSecretsId>
     </PropertyGroup>
 
     <ItemGroup>

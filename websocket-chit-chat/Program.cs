@@ -5,8 +5,8 @@ using System.Net.WebSockets;
 using System.Text;
 
 IConfiguration config = new ConfigurationBuilder()
-    .AddJsonFile("appsettings.json")
-    .AddJsonFile("appsettings.Development.json")
+    .AddJsonFile("appsettings.json", true)
+    .AddUserSecrets(typeof(Program).Assembly)
     .Build();
 
 var client = new HttpClient
